@@ -15,7 +15,7 @@ public class FavouriteListActivity extends AppCompatActivity {
         FragmentManager fm = getSupportFragmentManager();
         UsersFragment fragment = new UsersFragment();
         FragmentTransaction ft = fm.beginTransaction();
-        ft.replace(R.id.fragment_container2, fragment);
+        ft.replace(R.id.fragment_container2, fragment, "users");
         ft.commit();
     }
 }
