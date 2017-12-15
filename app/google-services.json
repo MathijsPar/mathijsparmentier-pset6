@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517235491847",
+    "firebase_url": "https://songliker-19e90.firebaseio.com",
+    "project_id": "songliker-19e90",
+    "storage_bucket": "songliker-19e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517235491847:android:e99ba1dd750d6adb",
+        "android_client_info": {
+          "package_name": "com.example.mathijs.lyricliker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517235491847-qh0p4nihh2957bmlp75pacq1rkovtguv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathijs.lyricliker",
+            "certificate_hash": "de67d111b28eb87b92902890233ce4a9082005a7"
+          }
+        },
+        {
+          "client_id": "517235491847-6996f3b96h3uimgjc6l98oka53ug6u4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UWdKIJ4-O8j4yzSI-6hrKMAwkmxIoac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517235491847-6996f3b96h3uimgjc6l98oka53ug6u4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
